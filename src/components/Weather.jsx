@@ -95,7 +95,7 @@ export function Weather(){
                     <img src={wind_icon} alt="" />
                     <div>
                         <p>{weatherData.windSpeed} km/h</p>
-                        <span>wind speed</span>
+                        <span>Wind speed</span>
                     </div>
                 </div>
             </div>
